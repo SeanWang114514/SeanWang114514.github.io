@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: wsl
-zhihu_username: wsl
-github_username: wsl
-twitter_username: wsl
+weibo_username: u/7943031647
+zhihu_username: 91-53-52-62
+github_username: SeanWang114514
+bilibili_username: 3461565747563137
 #facebook_username:  wsl
 #linkedin_username:  firstname-lastname-idxxxx
 
