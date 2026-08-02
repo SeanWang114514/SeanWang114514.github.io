@@ -638,10 +638,14 @@ samp {
 .post-preview {
   > a {
     color: @gray-dark;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     &:hover,
     &:focus {
       text-decoration: none;
       color: @brand-primary;
+    }
+    &:active {
+      color: @brand-gray;
     }
     > .post-title {
       font-size: 21px;
