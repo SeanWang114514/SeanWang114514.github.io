@@ -74,8 +74,8 @@ ga_domain: wangsiliu.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/WSL.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "一只AI农场主喵~"
+sidebar-avatar: https://avatars.githubusercontent.com/u/300768697?v=4
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
