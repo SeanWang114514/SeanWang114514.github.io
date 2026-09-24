@@ -16,6 +16,16 @@ tags:
 
 > 一个基于 React + Electron 的本地文档工作台：PDF 能像 Word 一样逐字改，批注文本框自带格式栏，手写 OCR 与语音识别都在本机推理 —— 改完直接写回原文件。
 
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin:24px 0 0;">
+<a href="https://github.com/SeanWang114514/note-studio" style="display:inline-flex;align-items:center;gap:8px;background:#24292e;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,0.2);">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+Star on GitHub
+</a>
+<a href="https://github.com/SeanWang114514/note-studio/releases" style="display:inline-flex;align-items:center;gap:8px;background:#1677FF;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,0.2);">
+⬇ 下载 Windows exe（251MB）
+</a>
+</div>
+
 <div style="border:1px solid #E8E8E8;border-left:4px solid #1677FF;border-radius:8px;padding:16px 20px;margin:24px 0;background:#F0F5FF;">
 <div style="font-size:15px;font-weight:600;color:#262626;margin-bottom:4px;">快速下载</div>
 <div style="font-size:13px;color:#595959;">在 <a href="https://github.com/SeanWang114514/note-studio/releases" style="color:#1677FF;">GitHub Releases</a> 下载 <code>Note-Studio-0.1.13-Windows.exe</code>，单文件、免安装，双击即用（约 251MB）；同一 Release 下还有 Android 版 <code>app-debug.apk</code>。项目源码：<a href="https://github.com/SeanWang114514/note-studio" style="color:#1677FF;">note-studio</a>。</div>
