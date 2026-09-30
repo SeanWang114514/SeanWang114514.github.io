@@ -23,14 +23,6 @@
 - [Geekbench 性价比天梯图：一张图看懂 CPU / GPU 跑分与价格](https://seanwang114514.github.io/geekbench-value-ladder/)
 - [GitHub 高星新项目：用 AI 帮你发现新晋热门仓库](https://seanwang114514.github.io/github-hot-repos/)
 
-## 技术栈
-
-博客基于 [Hux Blog](https://github.com/Huxpro/huxblog-boilerplate) Jekyll 主题构建：
-
-- Jekyll + Liquid 模板（`_includes/`、`_layouts/`）
-- Ruby + Bundler 依赖管理
-- Grunt 构建任务：压缩 JavaScript、编译 Less 到 CSS、监听文件变化等
-- Rouge 代码语法高亮（兼容 Pygments 主题）
 
 ## 本地开发
 
